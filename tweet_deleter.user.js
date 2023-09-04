@@ -8,12 +8,13 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
 // @require      https://code.jquery.com/jquery-latest.js
+// @homepage     https://github.com/ssg/tweet_deleter
 // @unwrap
 // ==/UserScript==
 
 /*global $*/
 
-(function() {
+(function () {
     'use strict';
 
     // 100 works too, but Twitter disables the endpoint temporarily
