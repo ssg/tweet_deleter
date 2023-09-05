@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         tweet_deleter
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Deletes tweets returned in the search results
 // @author       Sedat Kapanoglu <sedat@kapanoglu.com>
-// @match        https://twitter.com/search?*
+// @match        https://twitter.com/search*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
 // @require      https://code.jquery.com/jquery-latest.js
